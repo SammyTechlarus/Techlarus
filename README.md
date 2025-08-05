@@ -2,19 +2,18 @@
 
 
 # Techlarus
-Welcome site
+The trusted IT partner to bring clear solutions to your business. Coming soon to the Greater Houston area.
 
 # Categories
 Information Technology Company · Consulting agency · Computer Company
 
 # Contact info
 
-Houston, TX
 # Service area
+Houston, TX
 
-contact@techlarus.com
 # Email
-
+contact@techlarus.com
 
 # Websites and social links
 http://www.techlarus.com/
